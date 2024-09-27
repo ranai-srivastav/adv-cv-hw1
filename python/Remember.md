@@ -1,0 +1,2 @@
+# ROWS = HEIGHT
+# COL = WIDTH
